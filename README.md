@@ -1,4 +1,4 @@
-# Spring Boot RabbitMQ Test
+# Spring Boot RabbitMQ and Postgres Test
 
 
 Things to be checked before starting the application:
